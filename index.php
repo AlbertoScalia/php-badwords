@@ -11,7 +11,6 @@ Il secondo file riceverà la richiesta ed eseguirà queste operazioni:
 ?>
 
 
-
 <!DOCTYPE html>
 <html lang="en">
 
